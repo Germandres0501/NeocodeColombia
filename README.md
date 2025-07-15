@@ -1,7 +1,3 @@
-¡Claro! Entiendo. Quieres que te dé un borrador o ejemplo de README.md que puedas usar como base para tu proyecto NeocodeColombia, teniendo en cuenta el repositorio que me mostraste.
-
-Aquí tienes una propuesta que puedes copiar, pegar y luego editar directamente en GitHub (siguiendo los pasos que te di antes). He intentado que sea profesional, clara y atractiva, resaltando la naturaleza de los cursos y la tecnología.
-
 NeocodeColombia 🚀
 ¡Bienvenido al repositorio oficial de NeocodeColombia! Aquí encontrarás la base de nuestra plataforma dedicada a la formación en las tecnologías más demandadas del mercado laboral.
 
